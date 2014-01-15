@@ -1,0 +1,8 @@
+Results of tess - prism comparison.
+Ran with tesseroids:
+
+    changeset:   103:d7e46c1003e6
+    tag:         tip
+    user:        Leonardo Uieda <leouieda@gmail.com>
+    date:        Thu Mar 24 20:10:37 2011 -0300
+    summary:     Programs to calculate the potential. BUG: gz and pot of prism are wrong when bellow prism
