@@ -1,25 +1,25 @@
+# Optimal forward calculation method of the Marussi tensor due to a geologic structure at GOCE height
+
+by **Leonardo Uieda, Everton P. Bomfim, Carla Braitenberg, and Eder Molina**
+
 Abstract, code, poster and proceedings presented at the 4th International GOCE
 User Workshop in Munich, Germany.
 
 Poster is available on figshare:
 [doi:10.6084/m9.figshare.92624](http://dx.doi.org/10.6084/m9.figshare.92624)
 
-Proceedings are available from
-[my personal page](http://fatiando.org/people/uieda/).
+A PDF of the proceedings is available from: [leouieda.com](http://www.leouieda.com/talks.html)
 
 Results were generated using open-source software
-[Tesseroids](http://leouieda.github.io/tesseroids/).
+[Tesseroids](http://www.leouieda.com/tesseroids/).
 
 Citation:
 
-Uieda, L., E. P. Bomfim, C. Braitenberg, and E. Molina (2011), Optimal forward
-calculation method of the Marussi tensor due to a geologic structure at GOCE
-height, Proc. of 4th International GOCE User Workshop, pp. 1-5
+> Uieda, L., E. P. Bomfim, C. Braitenberg, and E. Molina (2011), Optimal forward
+> calculation method of the Marussi tensor due to a geologic structure at GOCE
+> height, Proc. of 4th International GOCE User Workshop, pp. 1-5
 
-
-# Optimal forward calculation method of the Marussi tensor due to a geologic structure at GOCE height
-
-**Leonardo Uieda, Everton P. Bomfim, Carla Braitenberg, and Eder Molina**
+## Abstract
 
 The new observations of GOCE present a challenge to develop new calculation
 methods that take into account the sphericity of the Earth. We address this
