@@ -8,10 +8,10 @@ User Workshop in Munich, Germany.
 Poster is available on figshare:
 [doi:10.6084/m9.figshare.92624](http://dx.doi.org/10.6084/m9.figshare.92624)
 
-A PDF of the proceedings is available from: [leouieda.com](http://www.leouieda.com/talks.html)
+A PDF of the proceedings is available from: [leouieda.com](http://www.leouieda.com)
 
 Results were generated using open-source software
-[Tesseroids](http://www.leouieda.com/tesseroids/).
+[Tesseroids](http://tesseroids.leouieda.com/).
 
 Citation:
 
